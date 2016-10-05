@@ -1,19 +1,4 @@
----
-title: DNS-shell
-description: PowerShell DNS-shell 
-categories: [discover, tools]
-parent: tools
-layout: discover-post
-authors: Saif El-Sherei
-cost: Free
-sourcecode:
-  - Github: https://github.com/sensepost/DNS-Shell
-version: 1.0
-license: GPL
-releasedate: 2016-09-30
-published: false
-
----
+<h1>DNS-shell</h1>
 
 
 <p>DNS-Shell is an interactive Shell over DNS channel. The server is Python based and can run on any operating system that has python installed, the payload is an encoded PowerShell command.</p>
